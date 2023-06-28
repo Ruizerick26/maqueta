@@ -1,0 +1,15 @@
+@media screen and (max-width : 800px) {
+    #contenerdor{
+        width: 100%;
+    }
+}
+
+@media  screen and (max-width: 480px) {
+    #sidebar{
+        display: none;
+    }
+    #menu{
+        text-align: center;
+    }
+    
+}
