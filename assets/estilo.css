@@ -1,7 +1,25 @@
-@media screen and (max-width : 800px) {
+@media screen and (max-width : 1386px) {
     #contenerdor{
         width: 100%;
     }
+    .cuadrado{
+        width: 1386px;
+        height: 100px; 
+        background-color: aqua;
+        border: 5;
+    }
+    .inicio{
+    color: aqua;
+    }
+    .Titulos{
+        font-size: 50px;
+        color: white;
+        text-align: center;
+    }
+}
+    
+    
+
 }
 
 @media  screen and (max-width: 480px) {
@@ -13,3 +31,5 @@
     }
     
 }
+
+
