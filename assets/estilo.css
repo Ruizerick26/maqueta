@@ -45,8 +45,8 @@
         text-align: center;
     }
     .conf{
-        width: 25px;
-        height: 25px;
+        width: 15px;
+        height: 15px;
     }
     .tabla{
         border: 10px;
@@ -56,17 +56,26 @@
     }
     .pie{
         width: 100%;
+        position: relative;
     }
     .logo{
-	width: 50px;
-	heigth: 50px;
+	   width: 50px;
+	   heigth: 50px;
     }
     .fondo{
         background-image: url(fondo1.jpeg);
     }
     .modelo{
         width: 200px;
-	heigth: 500px;
+        heigth: 500px;
+    }
+    .centro{
+        text-align: center;
+        width: 100%;
+    }
+    .mmn{
+        text-align: right;
+        vertical-align: bottom;
     }
 
 }
