@@ -1,4 +1,4 @@
-@media screen and (max-width: 1500px){
+/*@media screen and (max-width: 1500px){
     .cuadrado{
         width: 100%;
         height: 100px; 
@@ -26,7 +26,7 @@
         width: 100%;
         bottom: 0;
     }
-}
+}*/
 
 
 @media  screen and (max-width: 500px) {
@@ -54,6 +54,10 @@
         border-radius: 20px;
         background-color: #EC8AA5;
     }
+    .centro-MI{
+        text-align: center;
+        vertical-align: middle;
+    }
     .pie{
         width: 100%;
         position: relative;
@@ -76,6 +80,19 @@
     .mmn{
         text-align: right;
         vertical-align: bottom;
+    }
+    .estilos{
+        width: 75%;
+        border-radius: 20px;
+        background-image: url(fondo2.jpeg);
+    }
+    .estilo{
+        width: 125px;
+        height: 200px;
+    }
+    .regresar{
+        width: 20px;
+        height: 20px;
     }
 
 }
