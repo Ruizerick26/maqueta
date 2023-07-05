@@ -94,6 +94,13 @@
         width: 20px;
         height: 20px;
     }
+    .modelo-1{
+        width: 200px;
+        heigth: 500px;
+        position: absolute;
+        z-index: -1;
+        vertical-align: middle;
+    }
 
 }
 
